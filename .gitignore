@@ -11,7 +11,7 @@ lerna-debug.log*
 *.iml
 
 node_modules
-dist
+docs
 dist-ssr
 *.local
 
